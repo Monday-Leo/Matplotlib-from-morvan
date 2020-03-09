@@ -1,0 +1,5 @@
+#Ð´±ê×¢
+plt.annotate(r'$2x+1=%s$'%y0,xy=(x0,y0),xycoords='data',xytext=(+30,-30),textcoords='offset points',fontsize=16,arrowprops=dic(arrowstyle='->',connectionstyle='arc,rad=.2'))
+
+plt.text(-3.7,3,r'$This\ is\ the\ some\ text.\ \mu\ \sigma_i\ \alpha_t$',
+fontdict={'size':16,''color':'r'})
